@@ -72,13 +72,12 @@ ruff check . --output-format json | lintdiff - current.json
 ## Project structure
 
 ```
-Week-62/lintdiff/
-├── README.md
-├── pyproject.toml
-├── lintdiff.py
-├── tests/
-│   └── test_lintdiff.py
-└── .gitignore
+LICENSE
+README.md
+lintdiff.py
+pyproject.toml
+tests/
+└── test_lintdiff.py
 ```
 
 ## Tags / keywords
